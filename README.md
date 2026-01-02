@@ -16,7 +16,8 @@ I am a Full-Stack Developer passionate about building functional web application
 - **[Full-Stack_Process](https://github.com/Process-stack/Full-Stack_Process)**: A student grade management portal built with PHP.
 
 ### 📫 How to reach me
-- **Email:** [sucprostha@gmail.com]
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucprostha@gmail.com)
+- 📫 **Email:** [sucprostha@gmail.com](mailto:sucprostha@gmail.com)
 
 ### 📊 GitHub Statistics
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Process-stack&show_icons=true&theme=radical)
