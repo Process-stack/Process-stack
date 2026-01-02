@@ -19,5 +19,5 @@ I am a Full-Stack Developer passionate about building functional web application
 - [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sucprostha@gmail.com)
 
 ### 📊 GitHub Statistics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Process-stack&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Process-stack&layout=compact&theme=radical)
+![My Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Process-stack&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Process-stack&layout=compact&theme=radical)
