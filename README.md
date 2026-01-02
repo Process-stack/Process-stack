@@ -1,7 +1,7 @@
 # Hi there, I'm [Process Shrestha]! 👋
 
 I am a Full-Stack Developer passionate about building functional web applications.
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?=YourProcess-stack&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?=Process-stack&show_icons=true&theme=radical)
 
 ### 🛠️ My Tech Stack
 
